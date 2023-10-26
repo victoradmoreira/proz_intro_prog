@@ -1,2 +1,4 @@
 Olá mundo! 
 Alteração teste.
+Nova alteração.
+Novo texto feito direto do arquivo.
