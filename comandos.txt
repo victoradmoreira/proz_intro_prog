@@ -1,0 +1,3 @@
+P1_ Vi um cisco branco.
+P2_ Vi mil cisnes brancos.
+C_ Todos os cisnes são brancos.
