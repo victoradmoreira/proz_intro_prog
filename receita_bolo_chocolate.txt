@@ -1,3 +1,20 @@
-P1_ Todos os homens são mortais.
-P2_ Sócrates é homem.
-C_ Sócrates é mortal. 
+Passo 1:
+Reservar dois ovos,
+Reservar uma xícara de leite,
+Reservar uma massa de bolo 500g,
+Reservar uma xícara de chocolate em pó,
+Reservar uma colher de chá de sal,
+Reservar uma colher de chá de açucar,
+Reservar uma colher de sopa de manteiga,
+Reservar uma forma quadrado de tamanho médio.
+
+Passo 2:
+Misture todos os ingredientes na batedeira,
+Bata a massa até ter uma textura homogênea.
+
+Passo 3:
+Unte a forma com uma colher chá de oléo,
+Despeje a massa na forma,
+Coloque a forma no forno,
+Selecine temperatura 180 graus.
+
