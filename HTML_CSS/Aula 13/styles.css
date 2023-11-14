@@ -1,0 +1,20 @@
+h1 {
+background-color: blue;
+}
+div {
+    background-color: brown;
+    margin: 80px;
+    padding: 50px;  
+    border: 10px;
+}
+p {
+    background-color: blueviolet;
+}
+.caixa {
+background-color: chartreuse;
+}
+
+#ultima-caixa {
+    background-color: darkorange;
+}
+
