@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+    display: block;
+    text-align: center;
+    margin: 10px 200px 10px 200px;
+    background-color: darkgoldenrod;
+}
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    align-items: center;
+    padding: 36px;
+
+}
+footer ul {
+    display: flex;
+    justify-content: center;
+}
+
+footer a {
+    margin: 40px
+}
+
+footer a:hover {
+    color: blue;
+}
+footer p {
+    text-align:center;
+    text-decoration: underline;
+    font-size: small;
+        
+}
+
+footer section {
+    display: inline-block;
+    justify-content:center;
+    margin: 10px 200px 10px 200px;
+
+}
